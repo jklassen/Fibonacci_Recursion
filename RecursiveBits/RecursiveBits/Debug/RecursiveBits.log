@@ -1,0 +1,6 @@
+﻿  Functions.c
+  Main.c
+c:\users\jklassen31\desktop\recursivebits\recursivebits\main.c(16): warning C4013: 'blah' undefined; assuming extern returning int
+c:\users\jklassen31\desktop\recursivebits\recursivebits\main.c(18): warning C4013: 'system' undefined; assuming extern returning int
+  Generating Code...
+  RecursiveBits.vcxproj -> C:\Users\jklassen31\Desktop\RecursiveBits\Debug\RecursiveBits.exe
